@@ -27,7 +27,7 @@ Starting time can be set in the js script at the end of `index.html`:
 
 ```js
 // countto
-    const date1 = new Date("06/03/2022");
+    const date1 = new Date("06/21/2023");
     const date2 = new Date();
     const Difference_In_Time = date2.getTime()-date1.getTime();
     let Difference_In_Days = 0;
