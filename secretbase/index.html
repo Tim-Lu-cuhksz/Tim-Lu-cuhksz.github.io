@@ -198,7 +198,7 @@
     const Difference_In_Time = date2.getTime()-date1.getTime();
     let Difference_In_Days = 0;
     if (Difference_In_Time>0)
-        Difference_In_Days=Math.ceil(Difference_In_Time / (1000 * 3600 * 24));
+        Difference_In_Days=Math.ceil(Difference_In_Time / (1000 * 3600 * 24))-1;
 
     if (document.getElementById('state1')) {
         document.getElementById("state1").setAttribute("countTo",Difference_In_Days.toString());
