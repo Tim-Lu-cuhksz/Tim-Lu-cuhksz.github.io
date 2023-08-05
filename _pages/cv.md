@@ -11,32 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Electronic Information Engineering (Stream: Computer Engineering), _First Class Honours_, The Chinese University of Hong Kong, Shenzhen, 2023
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022: Student Help Room Preceptor
+  * The Chinese University of Hong Kong, Shenzhen
+  * Duties included: Provide academic assistance by offering extra Q&A sessions to undergraduate students enrolling in _MAT3007 Optimization_
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Software Development Intern,
+  * KUKA Robotics (China), Midea Group
+  * Duties included: 
+    1. Collaboratively developed the Pacecat lidar interface (specifically, ros2 based publisher node and subscriber node to process the lidar data) of the 600ic ul Autonomous Mobile Robot AMR)
+    2. Designed basic high level robot task diagrams based on Kuka Studio and Kuka RCS system and conducted tests including auto charging, auto lifting of the shelves , and auto navigation
+    3. Performed basic smoke testing for the navigation software on the AMR (Released version: 1.7.0)
+  * Supervisor: Shunjian Liang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language Skills: Chinese Mandarin (native), IELTS (7), GRE (323)
+* Programming Languages: C/C++, Python, Java, Matlab, MySQL, Verilog
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dongzhuyuan Lu"
+title                    : "Mr Dongzhuyuan Lu"
 title_separator          : "-"
-name                     : &name "Dongzhuyuan Lu"
+name                     : &name "Mr Dongzhuyuan Lu"
 description              : &description "personal description"
 url                      : https://tim-lu-cuhksz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dongzhuyuan Lu"
+  name             : "Mr. Dongzhuyuan Lu"
   avatar           : "profile.jpg"
   bio              : "Bachelor of Engineering in Electronic Information Engineering, The Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
