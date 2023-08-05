@@ -43,7 +43,7 @@ Please find our codes in our [Github Repo](https://github.com/CSC3170-2022Fall/p
 ## Simplified Virtual Memory and File System (C/C++)
 
 * Implemented a virtual memory system including an inverted page table and least recently used (LRU) page replacement algorithm. CPU physical memory and disk storage were simulated by CUDA GPU shared memory and global memory repectively
-* Build a file system via contiguous allocation including a volume control block, a single-root directory, and a file control block.
+* Built a file system via contiguous allocation including a volume control block, a single-root directory, and a file control block
 * Contructed a device (n-th prime number calculator) under /dev with file operations (e.g., ioctl that changes device configurations) implemented in kernel module
 
 Please find my codes in my [Github Repo](https://github.com/Tim-Lu-cuhksz/Operating-Systems).
