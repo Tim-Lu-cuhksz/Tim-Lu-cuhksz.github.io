@@ -18,4 +18,4 @@ My Interests
 =====
 * Reinforcement Learning
 * Program Testing
-* Operating Systems
+* Safety & Alignment of LLMs
