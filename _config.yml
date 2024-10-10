@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr Dongzhuyuan Lu"
+title                    : "Dongzhuyuan Lu"
 title_separator          : "-"
-name                     : &name "Mr Dongzhuyuan Lu"
+name                     : &name "Dongzhuyuan Lu"
 description              : &description "personal description"
 url                      : https://tim-lu-cuhksz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr. Dongzhuyuan Lu"
+  name             : "Dongzhuyuan Lu"
   avatar           : "profile.jpg"
-  bio              : "Bachelor of Engineering in Electronic Information Engineering, The Chinese University of Hong Kong, Shenzhen"
-  location         : "Shenzhen, China"
+  bio              : "BEng in EIE @ CUHKSZ | MEng in ECE @ UWaterloo "
+  location         : "Waterloo, ON, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "dongzhuyuanlu@link.cuhk.edu.cn"
+  email            : "d72lu@uwaterloo.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
