@@ -17,5 +17,5 @@ Starting from September 2024, I begin my journey at the University of Waterloo a
 My Interests
 =====
 * Reinforcement Learning
-* Program Testing
 * Safety & Alignment of LLMs
+* Program Testing

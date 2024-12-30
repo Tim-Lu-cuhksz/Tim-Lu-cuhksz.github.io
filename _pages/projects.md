@@ -8,6 +8,21 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Self-Trained Decision Transformer
+
+_ECE750-T40 Course Project_
+
+* Collect offline reinforcement learning data from the racetrack-v0 environment based on [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) using a pre-trained Proximal Policy Optimization (PPO) model
+
+* Propose a framework that trains a Decision Transformer (DT) using a dataset with part of its data collected by the DT itself to address the issue when data is scarce
+
+* Our experimental evaluation suggests that the proposed framework achieves better performance than the original DT in racetrack-v0
+
+Codes are available [here](https://github.com/Tim-Lu-cuhksz/STDT). 
+
+[Download report here](http://tim-lu-cuhksz.github.io/files/ECE_750_T40_Final_Report.pdf).
+
+
 ## Comparative Anime Recommendation System Exploration with DualTaste Recommender
 
 _EIE3280 Course Project, Supervised by Professor Jianwei Huang_
